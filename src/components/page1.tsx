@@ -4,8 +4,8 @@ import { ScrollTrigger } from "gsap/ScrollTrigger";
 import { useGSAP } from "@gsap/react";
 import bgImage from "../assets/bg.png";
 import mntnImage from "../assets/mntn.png";
-import mouseIcon from "../assets/mouse.svg";
-import shareIcon from "../assets/share.svg";
+import mouseIcon from "../assets/Mouse.svg";
+import shareIcon from "../assets/Share.svg";
 import videoImage from "../assets/video.png";
 
 gsap.registerPlugin(ScrollTrigger);
