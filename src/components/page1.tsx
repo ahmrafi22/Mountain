@@ -6,7 +6,7 @@ import bgImage from "../assets/bg.png";
 import mntnImage from "../assets/mntn.png";
 import mouseIcon from "../assets/Mouse.svg";
 import shareIcon from "../assets/Share.svg";
-import videoImage from "../assets/video.png";
+import videoImage from "../assets/Video.png";
 
 gsap.registerPlugin(ScrollTrigger);
 
